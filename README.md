@@ -109,8 +109,7 @@ Score = 0.0616359607
 
 calorie-prediction/
 │
-├── notebooks/
-│ └── calorie_prediction.ipynb
+├── notebooks/calorie_prediction.ipynb
 │
 ├── submission/
 │ └── submission.csv
