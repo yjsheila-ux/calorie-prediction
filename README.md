@@ -117,7 +117,6 @@ calorie-prediction/
 ├── requirements.txt
 └── README.md
 
-markdown
 ## 🚀 How to Run
 
 ```bash
