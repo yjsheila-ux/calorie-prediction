@@ -119,7 +119,7 @@ calorie-prediction/
 
 ## 🚀 How to Run
 
-```bash
-pip install -r requirements.txt```
+```bash```
+pip install -r requirements.txt
 
 notebooks/calorie_prediction.ipynb 실행 후 전체 셀 실행
