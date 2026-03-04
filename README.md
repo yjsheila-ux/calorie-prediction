@@ -33,8 +33,7 @@
 
 ### 2️⃣ Residual Learning (잔차 보정)
 
-```python
-residual = y - formula_prediction```
+residual = y - formula_prediction
 
 
 ML 모델은 직접 y를 예측하지 않고  
@@ -119,7 +118,7 @@ calorie-prediction/
 
 ## 🚀 How to Run
 
-```bash```
+bash
 pip install -r requirements.txt
 
 notebooks/calorie_prediction.ipynb 실행 후 전체 셀 실행
